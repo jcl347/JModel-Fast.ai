@@ -17,17 +17,6 @@ Part 1 covers:
 
 The course focuses on hands-on learning with Jupyter notebooks, real-world datasets, and FastAI's high-level abstractions that simplify deep learning implementations.
 
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/fastai-part1-learning.git
-   cd fastai-part1-learning
-   ```
-2. Open Jupyter Notebook and explore the course materials:
-   ```bash
-   jupyter notebook
-   ```
-
 ## Credits
 - Course by **Jeremy Howard** and the **FastAI team**
 - Based on the **FastAI library** and **PyTorch**
