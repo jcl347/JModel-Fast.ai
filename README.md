@@ -15,7 +15,7 @@ Part 1 covers:
 - Collaborative filtering for recommendation systems
 - Model interpretation, debugging, and deployment
 
-The course focuses on hands-on learning with Jupyter notebooks, real-world datasets, and FastAI's high-level abstractions that simplified deep learning implementations.
+The course focuses on hands-on learning with Jupyter notebooks, real-world datasets, and FastAI's high-level abstractions that simplify deep learning implementations.
 
 ## Getting Started
 1. Clone the repository:
